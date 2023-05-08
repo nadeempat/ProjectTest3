@@ -1,6 +1,6 @@
 Welcome to the AWS CodeStar sample web application
 ==================================================
-
+Test Project 3
 This sample code helps get you started with a simple Express web application
 deployed by AWS CodeDeploy and AWS CloudFormation to an Amazon EC2 instance.
 
